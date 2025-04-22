@@ -1,0 +1,9 @@
+cell_type,bam_file,bam_file_download_link,big_bed_file,big_bed_download_link
+HSC,ENCFF250YAL,https://www.encodeproject.org/files/ENCFF250YAL/@@download/ENCFF250YAL.bam,ENCFF662DYG,https://www.encodeproject.org/files/ENCFF662DYG/@@download/ENCFF662DYG.bigBed
+HSC,ENCFF958EPJ,https://www.encodeproject.org/files/ENCFF958EPJ/@@download/ENCFF958EPJ.bam,ENCFF255IVU,https://www.encodeproject.org/files/ENCFF255IVU/@@download/ENCFF255IVU.bigBed
+CMP,ENCFF711QAL,https://www.encodeproject.org/files/ENCFF711QAL/@@download/ENCFF711QAL.bam,ENCFF832UUS,https://www.encodeproject.org/files/ENCFF832UUS/@@download/ENCFF832UUS.bigBed
+CMP,ENCFF620WGW,https://www.encodeproject.org/files/ENCFF620WGW/@@download/ENCFF620WGW.bam,ENCFF343PTQ,https://www.encodeproject.org/files/ENCFF343PTQ/@@download/ENCFF343PTQ.bigBed
+CFU-E,ENCFF909QFQ,https://www.encodeproject.org/files/ENCFF909QFQ/@@download/ENCFF909QFQ.bam,ENCFF796ZSB,https://www.encodeproject.org/files/ENCFF796ZSB/@@download/ENCFF796ZSB.bigBed
+CFU-E,ENCFF780SSI,https://www.encodeproject.org/files/ENCFF780SSI/@@download/ENCFF780SSI.bam,ENCFF599ZDJ,https://www.encodeproject.org/files/ENCFF599ZDJ/@@download/ENCFF599ZDJ.bigBed
+Erythroblast,ENCFF199ZJX,https://www.encodeproject.org/files/ENCFF199ZJX/@@download/ENCFF199ZJX.bam,ENCFF181AMY,https://www.encodeproject.org/files/ENCFF181AMY/@@download/ENCFF181AMY.bigBed
+Erythroblast,ENCFF535OJU,https://www.encodeproject.org/files/ENCFF535OJU/@@download/ENCFF535OJU.bam,ENCFF616EWK,https://www.encodeproject.org/files/ENCFF616EWK/@@download/ENCFF616EWK.bigBed
