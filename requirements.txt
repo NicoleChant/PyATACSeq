@@ -1,0 +1,8 @@
+pathlib
+scipy
+numpy
+pandas
+pydeseq2
+matplotlib
+seaborn
+
